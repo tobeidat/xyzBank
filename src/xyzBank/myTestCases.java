@@ -41,7 +41,6 @@ public class myTestCases extends parametrs {
 			e.printStackTrace();
 		}
 
-
 	}
 
 	@Test(priority = 2)
